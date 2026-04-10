@@ -9,6 +9,7 @@ O sistema ajuda pequenos negócios a evitar perdas, controlar entradas e saídas
 - Express ou NestJS
 - React
 - PostgreSQL
+- 
 
 ## 📂 Documentação
 A documentação do projeto está disponível na pasta `/docs`:
